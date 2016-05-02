@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaspecta10unkngoog_0182.png"; bbox 0 0 3194 5168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 470 2245 1084 2359">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 470 2245 1084 2359">
+     <span class='ocr_line' id='line_1_1' title="bbox 470 2245 1084 2359; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 470 2245 705 2358; x_wconf 80' lang='lat' dir='ltr'><strong>ANNALI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 741 2246 808 2357; x_wconf 87' lang='lat' dir='ltr'><strong>DI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 844 2245 1084 2359; x_wconf 83' lang='lat' dir='ltr'><strong>RAGUSA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 378 2662 1181 2758">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 378 2662 1181 2758">
+     <span class='ocr_line' id='line_1_2' title="bbox 378 2662 1181 2758; baseline 0 -13"><span class='ocrx_word' id='word_1_4' title='bbox 378 2679 616 2747; x_wconf 68' lang='lat' dir='ltr'><strong>mommo</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 640 2679 706 2747; x_wconf 80' lang='lat' dir='ltr'><strong>MS.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 730 2662 890 2748; x_wconf 75' lang='lat' dir='ltr'>mcom</span> <span class='ocrx_word' id='word_1_7' title='bbox 913 2681 959 2747; x_wconf 80' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 981 2679 1181 2758; x_wconf 62' lang='lat' dir='ltr'><strong>mmm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1602 5168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1602 5168">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1602 5168; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1602 5168; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
